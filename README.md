@@ -11,7 +11,7 @@ This is a simple Course Registration Website built using only HTML. It includes 
 
 ## 🛠️ How to View the Website?
 1. **Download or Clone the Repository**:
-   git clone https://github.com/Vishwanathangit/Course-Registration-Website-Simple.git
+   git clone https://github.com/Vishwanathangit/Course-Registration-website-Simple.git
 2. **Open the `index.html` file** in any web browser.
 
 ## 📌 Pages Included:
