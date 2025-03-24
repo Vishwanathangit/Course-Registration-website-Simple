@@ -1,2 +1,21 @@
-# Course-Registration-website-Simple
-A simple static website built using HTML for showcasing upcoming events. This webpage displays event details, including a photo gallery event and a fashion store event, with descriptions and contact information. The design features a dark theme with centered elements for better readability.
+# 🎉 Course Registration Website - VMC Academy 🚀
+
+This is a simple Course Registration Website built using only HTML. It includes tables, forms, hyperlinks, and multimedia elements to showcase information about full-stack development courses. 
+
+## 📌 Features:
+- **Homepage** with an introduction to Vijay Makes Clever Academy (VMC)
+- **YouTube Video Embed** explaining full-stack development
+- **Technologies Used Table** HTML, Hyper Links, Tables and Forms
+- **Registration Page** with a form to enroll in courses
+- **Navigation Links** to Instagram and YouTube
+
+## 🛠️ How to View the Website?
+1. **Download or Clone the Repository**:
+   git clone https://github.com/Vishwanathangit/Course-Registration-Website-Simple.git
+2. **Open the `index.html` file** in any web browser.
+
+## 📌 Pages Included:
+- **index.html** → Homepage
+- **register.html** → Registration Form for Courses
+
+Feel free to explore and modify the project! 😊✨  
